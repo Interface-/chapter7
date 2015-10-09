@@ -1,14 +1,8 @@
 [
-
-	{
-	
-		"module":"dirlister"
-	
-	},
-	{
-		"moudle":"environment"
-	
-	}
-
-
+  {
+   "module" : "dirlister"	
+  },
+  {
+   "moudle" : "environment"
+  }
 ]
